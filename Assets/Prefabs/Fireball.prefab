@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 50180621217558018}
   - component: {fileID: 114328834925147918}
   - component: {fileID: 58891410115584638}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Fireball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 108918939254295546}
   - component: {fileID: 198741002048306338}
   - component: {fileID: 199957086449066708}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4749,7 +4749,7 @@ ParticleSystemRenderer:
   m_SortingLayerID: -1423320475
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_RenderMode: 4
+  m_RenderMode: 0
   m_SortMode: 0
   m_MinParticleSize: 0
   m_MaxParticleSize: 0.5
