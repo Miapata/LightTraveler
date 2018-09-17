@@ -10473,6 +10473,10 @@ Prefab:
       propertyPath: m_LocalPosition.y
       value: -0.022
       objectReference: {fileID: 0}
+    - target: {fileID: 4796356434146970, guid: fa3d458468e996a498137312af453f50, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa3d458468e996a498137312af453f50, type: 2}
   m_IsPrefabAsset: 0

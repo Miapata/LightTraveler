@@ -52,6 +52,6 @@ TagManager:
   - name: Effects
     uniqueID: 2871646821
     locked: 0
-  - name: Light Mask
+  - name: Masks
     uniqueID: 45153333
     locked: 0
