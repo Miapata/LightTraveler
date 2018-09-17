@@ -129,6 +129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 757c1c927d156de47b50c2b0a1a5ae8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyState: 0
   destroySound: {fileID: 8300000, guid: 04c01c892af84af4cba6b358a9d962b2, type: 3}
 --- !u!1 &519420028
 GameObject:
@@ -3192,6 +3193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 757c1c927d156de47b50c2b0a1a5ae8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enemyState: 0
   destroySound: {fileID: 8300000, guid: 04c01c892af84af4cba6b358a9d962b2, type: 3}
 --- !u!1 &949049103
 GameObject:
@@ -15457,3 +15459,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2075740168 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1163014196912998, guid: fa3d458468e996a498137312af453f50,
+    type: 2}
+  m_PrefabInternal: {fileID: 1429038917}
+--- !u!58 &2075740171
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2075740168}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.14}
+  serializedVersion: 2
+  m_Radius: 0.07
